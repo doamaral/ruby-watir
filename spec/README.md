@@ -17,7 +17,6 @@ describe 'feature name' do
 end
 ```
 
-
 Future work could be:
 - Try watir-rspec
     - No need to use the @browser or $browser variables when executing browser methods.
